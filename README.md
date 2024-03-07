@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**peter4049/peter4049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working at a dry-cleaning factory 
+- 🌱 I’m currently learning frontend web developer
+- 👯 I’m looking to collaborate on all of the great resources.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
